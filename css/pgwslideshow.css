@@ -16,6 +16,7 @@
     color: #fff;
 }
 
+
 .pgwSlideshow .ps-current {
     text-align: center;
     position: relative;
@@ -128,6 +129,7 @@
     left: 0;
     top: 45%;
     cursor: pointer;
+
 }
 
 .pgwSlideshow .ps-current .ps-next {
@@ -142,6 +144,7 @@
     right: 0;
     top: 45%;
     cursor: pointer;
+
 }
 
 .pgwSlideshow .ps-list .ps-prev {
@@ -208,3 +211,4 @@
     font-size: 0.8rem;
     padding: 8px;
 }
+
