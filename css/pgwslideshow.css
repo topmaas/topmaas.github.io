@@ -10,6 +10,7 @@
     width: 100%;
     background: #333;
     display: none;
+
 }
 
 .pgwSlideshow a{
@@ -30,12 +31,16 @@
     z-index: 1;
     opacity: 0;
     display: block;
+    height: 10px;
 }
 
+/*设置图片高度*/
 .pgwSlideshow .ps-current > ul  > li img {
     display: block;
     max-width: 100%;
     margin: auto;
+    height: 800px;
+
 }
 
 .pgwSlideshow .ps-caption {
